@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1018387242959",
+    "firebase_url": "https://chan-5ffe4.firebaseio.com",
+    "project_id": "chan-5ffe4",
+    "storage_bucket": "chan-5ffe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018387242959:android:2ccf39d3f448999c",
+        "android_client_info": {
+          "package_name": "com.treehouse.realtimemessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018387242959-fl69quvd096jf6ueljmj3v1mfr64k7oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJUUeW5dM3JCFHKKq5GIFOysZelSAEZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
