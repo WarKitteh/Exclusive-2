@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\Desktop\Vanilla\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\aaron\Desktop\Vanilla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ecc6a361dacd8d7ebc46990792e4c71468dffd0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\Desktop\Vanilla\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e407ce5b0921719b9234b0ab170db927ca6414f">
+        <dex dex="C:\Users\aaron\Desktop\Vanilla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_491af9908fb0740d092ed54ee338e5dcbca2cd77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\Desktop\Vanilla\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0b5107ceb81b5affd25e4fae82040e8231144135">
+        <dex dex="C:\Users\aaron\Desktop\Vanilla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_491af9908fb0740d092ed54ee338e5dcbca2cd77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\Desktop\Vanilla\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\aaron\Desktop\Vanilla\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ecc6a361dacd8d7ebc46990792e4c71468dffd0b\classes.dex" />
+    </item>
+
+</items>
